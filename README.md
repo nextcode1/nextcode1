@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nextcode1
+- 👋 Hi, I’m Marian
 - 👀 I’m interested in Beautiful Things 
 - 🌱 I’m currently learning JavaScript 
 <!---
