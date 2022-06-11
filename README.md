@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------
  
  🎖️ Experience
- - I just finished the Bootcamp school where we did lots of projects
+ - I just finished the [Codaisseur](https://codaisseur.com/) Bootcamp where we did lots of projects
  - Coding in a team
 
  🔥 My passions:
