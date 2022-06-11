@@ -18,7 +18,6 @@
 🏆 Achievements:
 - Becoming a Full Stack Developer!
  
-
  
  🤖 Preferred technologies:
 - Languages: Typescript & Javascript + (HTML & CSS)
@@ -39,6 +38,14 @@
 - Dive more into Typescript
 - Dive into Web3 and Blockchain
 - Work full time in a team
+
+
+## Projects
+
+WorkJET: Recruitment app
+- Check the details here:
+- CLIENT: https://github.com/nextcode1/WorkJET-frontend
+- SERVER: https://github.com/nextcode1/WorkJET-backend
 
 
 
