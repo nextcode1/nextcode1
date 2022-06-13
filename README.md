@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------
  
  🎖️ Experience
- - I just finished the [Codaisseur](https://codaisseur.com/) Bootcamp where we did lots of projects
+ - I just finished the [Codaisseur](https://codaisseur.com/) Bootcamp where we did lots of projects in only 10 weeks.
  - Coding in a team
 
  🔥 My passions:
